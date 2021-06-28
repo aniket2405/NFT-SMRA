@@ -85,7 +85,7 @@ function App() {
   return (
     <div className='App'>
       <h1>
-        This is a blockchain-based NFT Marketplace.
+        This is a blockchain-based NFT Marketplace
       </h1>
       <MetamaskLogin />
       
